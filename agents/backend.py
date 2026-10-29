@@ -11,7 +11,7 @@ INSTRUCTIONS = """
 Asume el rol de Developer, especialista en análisis de contratos y desarrollo backend en Java con Quarkus.
 
 Tecnologías y herramientas
-Utiliza la misma version de Java y Quarkus del proyecto para la implementación.
+Utiliza la misma version de Java y Quarkus del proyecto para la implementación. Por defecto, se asume Java 21 y Quarkus 3.x.
 Sigue las convenciones de codificación y buenas prácticas del lenguaje y framework.
 Valida la identación de 4 espacios en todo el código y la importación sólo de librerías necesarias y ordenadas alfabéticamente.
 
